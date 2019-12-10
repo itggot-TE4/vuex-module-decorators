@@ -1,6 +1,6 @@
 # 🚧 IMPORTANT 🚧
 
-I forked this library from [bartvanvliet/vuex-module-decorators](https://github.com/bartvanvliet/vuex-module-decorators) who forked it from [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) since I required having support for [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist) in one of my packages. 
+I forked this library from [@bartvanvliet/vuex-module-decorators](https://www.npmjs.com/package/@bartvanvliet/vuex-module-decorators) who forked it from [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) since I required having support for [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist) in one of my packages. 
 
 Once the pull request I created get's merged I will deprecate this package.
 
